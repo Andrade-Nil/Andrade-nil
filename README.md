@@ -4,7 +4,7 @@
   - 🔭 Atualmente estou trabalhando com front end.<br>
   - 🌱 Estou estudando react e javaScript.<br>
   - 👯 Gostaria de contribuir para a melhor visibilidade dos projetos que me envolvo.<br>
-  - 🤔 Pensando sempre em anpliar minhas habilidades ...<br>
+  - 🤔 Pensando sempre em ampliar minhas habilidades ...<br>
 </div>
 <br><br>
 ## 📈 Minhas Estatísticas
